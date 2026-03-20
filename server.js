@@ -996,4 +996,5 @@ app.post("/api/delete", (req, res) => {
 
 app.listen(PORT, () => {
   console.log("Server chạy tại port " + PORT);
+  console.log("huy fix ");
 });
